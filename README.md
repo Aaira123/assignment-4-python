@@ -9,3 +9,6 @@
 
 
 03_if_statement copy link:https://colab.research.google.com/drive/17uSKdpKE02TdFMtuNgctEkxxww9H7AEj?usp=sharing
+
+
+04_dictionaries copy link:https://colab.research.google.com/drive/1n8K_AszrKXOqJxVPBiKuUHlHx8LUmOH6?usp=sharing
