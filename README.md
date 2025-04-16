@@ -6,3 +6,6 @@
 
 
 02_list copy link:https://colab.research.google.com/drive/1VnsG_QIyfrYmDIinU4-iX8HqbG4zVn-4?usp=sharing
+
+
+03_if_statement copy link:https://colab.research.google.com/drive/17uSKdpKE02TdFMtuNgctEkxxww9H7AEj?usp=sharing
