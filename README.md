@@ -17,6 +17,9 @@
 o5_loops_control_flow copy link:https://colab.research.google.com/drive/1R8UnRGRp6HJSwHsmZYyMk_lQDZeGabo0?usp=sharing
 
 
+assignment 1/basic copy link:https://colab.research.google.com/drive/1iI2pggf4icEumjiP0oLdSKgK9ExkewwW?usp=sharing
+
+
 
 06_function copy link:https://colab.research.google.com/drive/1gEtWtEdIQ1rTEWZqtdAXb_i966Cqt5jb?usp=sharing
 
