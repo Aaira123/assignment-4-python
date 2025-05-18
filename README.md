@@ -21,6 +21,10 @@ assignment 1/basic copy link:https://colab.research.google.com/drive/1iI2pggf4ic
 
 
 
+assignment1/intermediate copy link:https://colab.research.google.com/drive/1X9cdOO50oFbnjgVB0RjQD2HBmrI71Z5U?usp=sharing
+
+
+
 06_function copy link:https://colab.research.google.com/drive/1gEtWtEdIQ1rTEWZqtdAXb_i966Cqt5jb?usp=sharing
 
 
